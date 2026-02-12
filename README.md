@@ -11,6 +11,8 @@ Contains a hybrid human/automated script to scrap Epstien Library multimedia fil
 Phase 1: Scrape multimedia, mostly video .pdf URLs. 
 Phase 2: Extension-Probing each URL. 
 Phase 3: Expose pedos. 
+
+Feel free to work on this and add to the descriptions. 
 ______________________________________________
 PARTIAL DROP
 ______________________________________________
@@ -187,5 +189,6 @@ Note: This is a **partial** dataset (truncated in source). Many entries are plac
 | [EFTA01133546.m4v](https://www.justice.gov/epstein/files/DataSet%209/EFTA01133546.m4v) | video/mp4 | 34.21 | 2013-09-06T20:04:50.000000Z | - |  |
 | [EFTA01137029.m4v](https://www.justice.gov/epstein/files/DataSet%209/EFTA01137029.m4v) | video/mp4 | 2.88 | 2013-03-20T22:47:54.000000Z | - |  |
 | [EFTA01132164.mov](https://www.justice.gov/epstein/files/DataSet%209/EFTA01132164.mov) | video/quicktime | 13.42 | 2013-12-07T22:22:44-0500 | [View on Google Maps](https://www.google.com/maps/search/?api=1&query=26.3057,-80.1310) |  |
+
 
 
